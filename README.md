@@ -22,7 +22,7 @@ print(rank)
 
 ```
 ## Output:
-<img width="1271" height="654" alt="AdobeExpressPhotos_0a58845f1ad945eb81b458fa7ca9ac08_CopyEdited" src="https://github.com/user-attachments/assets/1a890485-2896-44bd-8d99-358930bcc1bb" />
+<img width="459" height="185" alt="image" src="https://github.com/user-attachments/assets/8b80b22c-1009-404c-b669-fb7d43edb049" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
